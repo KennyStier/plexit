@@ -1,0 +1,21 @@
+{
+ "background": {"scripts": ["background.js"]},
+ "browser_action": {
+ "default_icon": "icon-128.png",
+ "default_title": "Plex It!"
+ },
+ "name": "Plex It!",
+ "description": "Plex It! is a Chrome extension that will queue up video from supported web sites and store the details to your Plex Account for playback on Plex Apps. You also can use it to recommend videos to friends and family, or even to start playing them immediately on your Plex Apps.",
+ "homepage_url": "http://plex.tv/",
+ "icons": {
+     "16": "icon-16.png",
+     "48": "icon-48.png",
+     "128": "icon-128.png" },
+ "permissions": [
+     "tabs",
+     "http://*/*",
+     "https://*/*"
+ ],
+ "version": "0.1",
+ "manifest_version": 2
+}
