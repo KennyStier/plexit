@@ -8,3 +8,8 @@ This is NOT officially supported by the Plex Project (yet).
 
 To Install
 ======
+
+Download a compressed file of the extension and decompress it.
+Then open Chromium/Chrome and in the Menu choose More Tools and then Extensions. Then hit Load Unpacked Extension and enter the folder you decompressed the files into. The extension will then install.
+
+This application is licensed under the GNU GPLv3.
